@@ -2,8 +2,13 @@
   "resources": [
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":2,},
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},"order":0,},
+    {"id":{"name":"obj_padle","path":"objects/obj_padle/obj_padle.yy",},"order":0,},
+    {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":3,},
     {"id":{"name":"spr_padle","path":"sprites/spr_padle/spr_padle.yy",},"order":1,},
+    {"id":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"order":1,},
     {"id":{"name":"snd_boing","path":"sounds/snd_boing/snd_boing.yy",},"order":0,},
+    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":2,},
+    {"id":{"name":"obj_padle2","path":"objects/obj_padle2/obj_padle2.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
