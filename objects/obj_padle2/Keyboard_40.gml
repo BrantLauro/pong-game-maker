@@ -3,3 +3,5 @@
 if self.y < 416 {
 	self.y += 5;
 }
+
+auto = false;

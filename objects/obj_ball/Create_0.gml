@@ -1,4 +1,8 @@
 
-speed = 5;
+// reinicia a seed
+randomize();
 
-direction = 180;
+// escolhe entre as direções, nordeste, noroeste, sudoeste e sudeste
+direction = choose(45, 135, 225, 315);
+
+alarm[0] = room_speed;
